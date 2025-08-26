@@ -1,2 +1,3 @@
 # Introduction-to-Stochastic-Calculus-with-Applications-in-Financial-Modeling
-hello
+This paper serves as a learning guide to the field of stochastic calculus, with a clear focus on its applications in finance. The content is organized into eleven chapters, starting with the motivation and building blocks like stochastic processes and the properties of Martingales. It then dives into the heart of the subject, explaining the fundamental difference between ordinary and stochastic calculus, the function of the binomial model, and the critical tool of Itô's Lemma. The later chapters focus on solving the Geometric Brownian Motion model and linear Stochastic Differential Equations (SDEs), culminating in a hands-on Python code example to plot the results and visualize the random behavior of asset prices.
+
